@@ -1,4 +1,4 @@
-# proyectoproductos
+# Proyecto de Productos en C++
 Proyecto creado en C++ con su respectivo archivo ejecutable y diagrama de flujo. 
 
 <b>1. Nombre del Autor:</b>
