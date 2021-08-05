@@ -23,13 +23,13 @@ El diagrama de flujo mostrará la secuencia de pasos que realizará el programa 
 
 Lo primero que hacemos para descargar es hacer click en “Clone or Download" (Clonar o Descargar), luego en “Download Zip” (Descargar Zip) y comenzará la descarga.
 Una vez terminada la descarga nos vamos a la carpeta respectiva con el mismo nombre. 
-Damos clic derecho en el archivo comprimido y damos en "extraer en supletorio.zip" por lo que se descomprime el archivo.
+Damos clic derecho en el archivo comprimido y damos en "extraer en supletorio-main.zip" por lo que se descomprime el archivo.
 Finalmente, podemos dar doble clic a cualquiera de los archivos para ejecutarlos si deseamos. 
 
 <b>4. Explicación de cómo compilarlo. </b>
 
 Como requisito previo debemos tener instalado el programa Dev-C++ 5.11.
-Una vez descargado y descomprimido el archivo supletorio.zip, debemos abrir el archivo programaproductos.cpp dando doble clic. Una vez abierto el archivo, podemos dar clic en ícono de Compilar ubicado en la barra de menu superior o presionamos F9. 
+Una vez descargado y descomprimido el archivo supletorio-main.zip, debemos abrir el archivo programaproductos.cpp dando doble clic. Una vez abierto el archivo, podemos dar clic en ícono de Compilar ubicado en la barra de menu superior o presionamos F9. 
 
 <b>5. Explicación de cómo ejecutarlo en la máquina local. </b>
 
